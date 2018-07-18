@@ -1,3 +1,10 @@
-# hack2018
+# ENS workshop and hackathon information page
 
-[![Join the chat at https://gitter.im/ensdomains/hack2018](https://badges.gitter.im/ensdomains/hack2018.svg)](https://gitter.im/ensdomains/hack2018?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+## Quick Links
+
+- [Gitter chat channel](https://gitter.im/ensdomains/hack2018)
+- [Web page](https://ens.domains/hack2018)
+- Live streaming = TBD
+- [Workshop specific info](doc/workshop.md)
+- [Hackathon specific info](doc/hackathon.md)
+
