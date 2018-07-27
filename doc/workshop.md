@@ -1,6 +1,6 @@
 # ENS Workshop
 
-ENS Workshop will be held on 10th Aug(Fri) in London.
+ENS Workshop will be held on 10th Aug(Fri) 2018 in London.
 
 Please be reminded that this is invitation event and it is already full.
 
