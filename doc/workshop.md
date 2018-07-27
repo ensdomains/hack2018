@@ -1,6 +1,9 @@
 # ENS Workshop
 
-__Note__ This workshop is already full.
+ENS Workshop will be held on 10th Aug(Fri) in London.
+
+Please be reminded that this is invitation event and it is already full.
+
 
 ## FAQ
 
