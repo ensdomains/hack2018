@@ -14,8 +14,7 @@
 	* 6.5. [Where should we book my accommodation?](#Whereshouldwebookmyaccommodation)
 	* 6.6. [How many people are participating?](#Howmanypeopleareparticipating)
 	* 6.7. [Can we join remotely?](#Canwejoinremotely.)
-	* 6.8. [Where should we book my accommodation?](#Whereshouldwebookmyaccommodation-1)
-	* 6.9. [Any other questions?](#Anyotherquestions)
+	* 6.8. [Any other questions?](#Anyotherquestions)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -165,13 +164,7 @@ We have a capacity of around 70~80 participants at the venue. The majority of th
 This registration is for on-site participation only.
 We have received a few inquiries for remote participation so we will let you know if we later decide to include remote participation.
 
-###  6.8. <a name='Whereshouldwebookmyaccommodation-1'></a>Where should we book my accommodation?
-
-The event takes place at King's College London campus and the closest tube stations are Temple (District/Circle line), Holborn (Central/Picadilly line) or Embankment (Bakerloo/Northern/District/Circle).
-
-The area of the venue is relatively pricey so you may choose to stay in the area where the above tube lines pass. East/South London is relatively cheaper than North/Central/West London in general.
-
-###  6.9. <a name='Anyotherquestions'></a>Any other questions?
+###  6.8. <a name='Anyotherquestions'></a>Any other questions?
 
 Feel free to chat with other workshop/hackathon participants at https://gitter.im/ensdomains/hack2018
 If you need specific help, please feel free to contact makoto@ens.domains
