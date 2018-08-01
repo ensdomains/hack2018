@@ -5,7 +5,7 @@
 * 2. [Location](#Location)
 * 3. [Schedule](#Schedule)
 * 4. [Hackathon rules](#Hackathonrules)
-* 5. [Submission Flow](#SubmissionFlow)
+* 5. [Submission flow](#Submissionflow)
 * 6. [FAQ](#FAQ)
 	* 6.1. [How do I RSVP?](#HowdoIRSVP)
 	* 6.2. [Can I share this URL so that my friends can also register?](#CanIsharethisURLsothatmyfriendscanalsoregister)
@@ -72,7 +72,7 @@ King's college London at Strand London WC2R 2LS
 - ENS related = This is ENS hackathon so please do something related to ENS. Feel free to integrate ENS into your existing app
 - Existing project is okay = It does not have to be a completely new project as long as you can make it clear which part you hacked during the hackathon period.
 
-##  5. <a name='SubmissionFlow'></a>Submission Flow
+##  5. <a name='Submissionflow'></a>Submission flow
 
 We will follow similar rules done by [status.im global hackathon](https://github.com/status-im/hackathon).
 
