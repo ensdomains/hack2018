@@ -7,4 +7,6 @@
 - Live streaming = TBD
 - [Workshop specific info](doc/workshop.md)
 - [Hackathon specific info](doc/hackathon.md)
+- Twitter hashtag = [#enshack](https://twitter.com/hashtag/enshack)
+- Official Twitter account = [@ensdomains](http://twitter.com/ensdomains)
 
