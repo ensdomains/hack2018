@@ -4,16 +4,8 @@
 * 1. [Registration](#Registration)
 * 2. [Location](#Location)
 * 3. [Schedule](#Schedule)
-	* 3.1. [Saturday](#Saturday)
-	* 3.2. [Sunday](#Sunday)
 * 4. [Hackathon rules](#Hackathonrules)
 * 5. [Submission Flow](#SubmissionFlow)
-	* 5.1. [Step 1: Team registration (by Saturday 1pm).](#Step1:TeamregistrationbySaturday1pm.)
-	* 5.2. [Step2: Demo registration start (by Sunday noon)](#Step2:DemoregistrationstartbySundaynoon)
-	* 5.3. [Step3: Demo registration deadline (by 2pm)](#Step3:Demoregistrationdeadlineby2pm)
-	* 5.4. [Step4: Demo (3pm)](#Step4:Demo3pm)
-	* 5.5. [Setp5: Public voting](#Setp5:Publicvoting)
-	* 5.6. [Step6 Winners announced!](#Step6Winnersannounced)
 * 6. [FAQ](#FAQ)
 	* 6.1. [How do I RSVP?](#HowdoIRSVP)
 	* 6.2. [Can I share this URL so that my friends can also register?](#CanIsharethisURLsothatmyfriendscanalsoregister)
@@ -21,7 +13,7 @@
 	* 6.4. [What can we hack?](#Whatcanwehack)
 	* 6.5. [Where should we book my accommodation?](#Whereshouldwebookmyaccommodation)
 	* 6.6. [How many people are participating?](#Howmanypeopleareparticipating)
-	* 6.7. [Can we join remotely.](#Canwejoinremotely.)
+	* 6.7. [Can we join remotely?](#Canwejoinremotely.)
 	* 6.8. [Where should we book my accommodation?](#Whereshouldwebookmyaccommodation-1)
 	* 6.9. [Any other questions?](#Anyotherquestions)
 
@@ -168,7 +160,7 @@ The area of the venue is relatively pricey so you may choose to stay in the area
 
 We have a capacity of around 70~80 participants at the venue. The majority of the Friday workshop participants will be also  joining in addition to the hackathon participants.
 
-###  6.7. <a name='Canwejoinremotely.'></a>Can we join remotely.
+###  6.7. <a name='Canwejoinremotely.'></a>Can we join remotely?
 
 This registration is for on-site participation only.
 We have received a few inquiries for remote participation so we will let you know if we later decide to include remote participation.
