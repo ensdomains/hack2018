@@ -23,7 +23,7 @@ There will be around 30-40 participants who provide services in the following ar
 The workshop will be unconference style where anyone can suggest the topics to discuss. The following is the format we have in mind.
 
 ```
-- 8:30 = Registration and Coffee
+- 8:30 = Registration and Breakfast
 - 9:30  ~ 10:00  = Introduction by Nick Johnson
 - 10:00 ~ 11:00  = Unconf planning
 - 11:00 ~ 12:00  = Session 1
