@@ -45,9 +45,9 @@ King's college London at Strand London WC2R 2LS
 - 11:30 ~ 12:00  = Idea pitch and team forming
 - 12:00 ~ 13:00  = Lunch
 - 13:00          = Team registration deadline
-- 15:00 ~ 15:30  = Tea Break
-- 17:00 ~ 18:00  = Yoga
-- 19:00          = Start cleaning room
+- 15:00 ish      = Tea Break
+- 16:30 ~ 17:30  = Yoga
+- 19:30 ish      = Start cleaning room
 - 20:00 ~        = Close
 ```
 
@@ -60,7 +60,7 @@ King's college London at Strand London WC2R 2LS
 - 14:00 = Demo registration deadline
 - 15:00 = Demo
 - 16:30 ~ 17:00  = Public voting & winner announced.
-- 18:00 = Close
+- 18:00 = Close & Start cleaning room
 ```
 
 ##  4. <a name='Hackathonrules'></a>Hackathon rules
