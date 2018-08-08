@@ -38,8 +38,8 @@ King's college London at Strand London WC2R 2LS
 ###  3.1. <a name='Saturday'></a>Saturday
 
 ```
-- 8:30 = Registration and Breakfast
-- 9:30  ~ 10:00  = Welcome & introduciton
+- 8:30  = Registration and Breakfast
+- 9:30  ~ 10:00  = Welcome & introduction
 - 10:00 ~ 10:30  = "ENS 101" - Nick Johnson
 - 11:00 ~ 11:30  = "Packaging with ENS: More than just a name" - Brett Sun
 - 11:30 ~ 12:00  = Idea pitch and team forming
@@ -54,7 +54,7 @@ King's college London at Strand London WC2R 2LS
 ###  3.2. <a name='Sunday'></a>Sunday
 
 ```
-- 9:00 = Open and Breakfast
+- 9:00  = Open and Breakfast
 - 12:00 = Demo registration start
 - 12:00 ~ 13:00  = Lunch
 - 14:00 = Demo registration deadline
