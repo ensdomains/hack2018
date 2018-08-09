@@ -39,7 +39,7 @@ King's college London at Strand London WC2R 2LS
 
 ```
 - 8:30 = Registration and Breakfast
-- 9:30  ~ 10:00  = Welcome & introduciton
+- 9:30  ~ 10:00  = Welcome & introduction
 - 10:00 ~ 10:30  = "ENS 101" - Dean Eigenmann
 - 11:00 ~ 11:30  = "Packaging with ENS: More than just a name" - Brett Sun
 - 11:30 ~ 12:00  = Idea pitch and team forming
