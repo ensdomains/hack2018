@@ -31,7 +31,7 @@ The workshop will be unconference style where anyone can suggest the topics to d
 - 13:00 ~ 14:00  = Session 2: Governance
 - 14:00 ~ 15:00  = Session 3: Permanent Registry
 - 15:30 ~ 16:00  = Break
-- 15:30 ~ 16:30  = Session 4: Lightning talk
+- 15:30 ~ 16:30  = Session 4: Lightning talks
 - 16:30 ~ 17:00  = Summary
 - 18:00 ~        = Pub!
 ```
