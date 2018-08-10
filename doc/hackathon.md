@@ -32,6 +32,7 @@
 ##  2. <a name='Location'></a>Location
 
 King's college London at Strand London WC2R 2LS
+Kings building, 4th floor Upper : Room K4U.12
 
 ##  3. <a name='Schedule'></a>Schedule
 
