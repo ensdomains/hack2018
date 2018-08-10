@@ -28,8 +28,8 @@ The workshop will be unconference style where anyone can suggest the topics to d
 - 10:00 ~ 11:00  = Unconf planning
 - 11:00 ~ 12:00  = Session 1: UX
 - 12:00 ~ 13:00  = Lunch
-- 13:00 ~ 14:00  = Session 2: Permanent Registry
-- 14:00 ~ 15:00  = Session 3: Governance
+- 13:00 ~ 14:00  = Session 2: Governance
+- 14:00 ~ 15:00  = Session 3: Permanent Registry
 - 15:30 ~ 16:00  = Break
 - 15:30 ~ 16:30  = Session 4: Lightning talk
 - 16:30 ~ 17:00  = Summary
