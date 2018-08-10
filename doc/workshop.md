@@ -26,18 +26,17 @@ The workshop will be unconference style where anyone can suggest the topics to d
 - 8:30 = Registration and Breakfast
 - 9:30  ~ 10:00  = Introduction by Nick Johnson
 - 10:00 ~ 11:00  = Unconf planning
-- 11:00 ~ 12:00  = Session 1
+- 11:00 ~ 12:00  = Session 1: UX
 - 12:00 ~ 13:00  = Lunch
-- 13:00 ~ 14:00  = Session 2
-- 14:00 ~ 15:00  = Session 3
+- 13:00 ~ 14:00  = Session 2: Permanent Registry
+- 14:00 ~ 15:00  = Session 3: Governance
 - 15:30 ~ 16:00  = Break
-- 15:30 ~ 16:30  = Session 4
+- 15:30 ~ 16:30  = Session 4: Lightning talk
 - 16:30 ~ 17:00  = Summary
 - 18:00 ~        = Pub!
 ```
+![photo](https://pbs.twimg.com/media/DkOqS-_WwAAe5kt.jpg:large)
 
-If you are thinking about giving any lightning talks, please suggest during the planning session.
-If you would like to connect and discuss with other workshop participants, please use https://discuss.ens.domains/t/2018-ens-workshop-discussion-topics/679
 
 ### What about the weekend hackathon?
 
